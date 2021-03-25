@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BakingApp</string>
+
+    <string name="recipe_img">Recipe Image</string>
+    <string name="servings">%d Servings</string>
+    <string name="ingredients">Ingredients: </string>
+    <string name="steps">Steps</string>
+    <string name="step">Step %d</string>
+    <string name="step_next">\u003E</string>
+    <string name="step_prev">\u003C</string>
+
+    <!--Errors-->
+    <string name="error_data_not_fetched">Failed to fetch data!</string>
+    <string name="no_internet">No internet connection!</string>
+    <string name="data_not_available">Recipe not selected</string>
+
+    <!--Widget-->
+    <string name="add_widget">+</string>
+    <string name="added_to_widget">Added to widget</string>
+</resources>
